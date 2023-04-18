@@ -1,0 +1,81 @@
+body{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: cover;
+    color: white;
+}
+
+.box{
+    margin-top: 2%;
+    margin-left: 13%;
+    margin-right: 13%;
+    margin-bottom: 5%;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    background-color: rgba(0, 0, 0, .5);
+    border-radius: 2%;
+}
+.container{
+    margin: auto;
+    text-align: center;
+    color: #00dd00;
+}
+
+.logo{
+    width: 20%;
+    height: 20%;
+}
+
+.logo-text{
+    margin-bottom: 0%;
+}
+
+.nav-bar{
+    display: block;
+    background-color: #00dd00;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-bottom: auto;
+}
+
+.object{
+    margin-top: 2%;
+    margin-bottom: 0%;
+}
+
+.monopattino{
+    font-size: larger;
+}
+
+.carica-1{
+    display: block;
+    background-color: rgb(199, 161, 90);
+    height: 20px;
+    width: 35%;
+    border-radius: 7%;
+}
+
+.carica-2{
+    display: block;
+    background-color: #00dd00;
+    height: 20px;
+    width: 50%;
+    border-radius: 7%;
+}
+
+.carica-3{
+    display: block;
+    background-color: rgb(228, 71, 32);
+    height: 20px;
+    width: 12%;
+    border-radius: 7%;
+}
+
+.info{
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
